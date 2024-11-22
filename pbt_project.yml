@@ -1,0 +1,57 @@
+name: effie.okeefe
+description: solution
+version: 0.55.225
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: effieokeefe
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:19:42'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:19:42'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:19:42.499857Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '41762880'
+  createdAt: '2024-11-22T20:19:42.499857Z'
+  type: plibMaven
+projectDependencies:
+  '295':
+    projectUID: 295
+    projectName: kathleen.hudson
+    repositoryPath: gitUri=http://gitserver:3000/dev_XTWSrTk2_team_475/dev_XTWSrTk2_project_295.git&subPath=
+    version: kathleen.hudson/0.5.6.868
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:19:39'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
